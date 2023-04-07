@@ -92,4 +92,4 @@ else {
  }
 
 
- empezarConsulta();
+ empezarConsulta()
