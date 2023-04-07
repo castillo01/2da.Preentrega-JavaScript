@@ -90,3 +90,6 @@ else {
 }
 
  }
+
+
+ empezarConsulta();
