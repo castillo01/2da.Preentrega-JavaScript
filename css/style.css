@@ -1,0 +1,26 @@
+.contenedorPadre {
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+
+.encabezado {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+    border-radius: 4px;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color:rgb(18, 18, 136) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
